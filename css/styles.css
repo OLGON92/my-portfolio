@@ -1,3 +1,13 @@
 h1 {
   color: aquamarine;
 }
+
+.column {
+  width: 50%
+  padding: 20px;
+  border: solid blue;
+  border-width: 20px;
+  background-color: beige;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
