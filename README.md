@@ -12,8 +12,7 @@
 
 ## Description
 
-_{This is a portfolio of my projects thus far. I plan to improve on this page as time progresses.}_
-
+_{This is a portfolio of my projects thus far. I plan to improve on this page as time progresses. Here is a [link](https://olgon92.github.io/my-portfolio/) to my portfolio on GitHub Pages.}_
 
 ## Setup/Installation Requirements
 
