@@ -34,3 +34,13 @@ img {
 .highlight {
   font-style: italic;
 }
+
+.float-left {
+  float: left;
+}
+
+.sidebar {
+    width: 30%;
+    float: left;
+    background-color: rgb(1, 245, 253);
+}
